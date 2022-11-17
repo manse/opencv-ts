@@ -8,7 +8,7 @@ Compatible with OpenCV 4.5 version
 ## example use
 
 ```typescript
-import cv, { Mat, Rect } from "opencv-ts";
+import cv, { Mat, Rect } from "@manse/opencv-ts";
 
 cv.onRuntimeInitialized = () => {
     const src = cv.imread("inputCanvas");
