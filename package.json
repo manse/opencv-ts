@@ -1,6 +1,6 @@
 {
     "name": "@manse/opencv-ts",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "src/opencv.js",
     "types": "src/opencv.d.ts",
     "description": "This package is a work in progress to translate opecv with a typescript definition",
